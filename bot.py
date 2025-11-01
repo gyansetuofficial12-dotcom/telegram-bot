@@ -13,7 +13,7 @@ import threading
 # -----------------------------
 # CONFIG
 # -----------------------------
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv(7803458221:"7803458221:AAFIhgShyY8S1nVfhPn3ct7OID1SXVpxKtk")
 ADMIN_CHAT_ID = 8064043725
 UPLOAD_KEY = "admin000"
 
